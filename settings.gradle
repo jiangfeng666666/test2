@@ -1,0 +1,2 @@
+include ':app', ':ten_106'
+rootProject.name='ten'
