@@ -46,8 +46,7 @@ private MyService.Downloadbinder downloadbinder;
             case R.id.stop:
               unbindService(connection);
                 break;
-            case 9:
-                break;
+
                 default:
                     break;
         }
